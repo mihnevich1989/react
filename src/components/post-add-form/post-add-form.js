@@ -8,7 +8,6 @@ const FormPanel = styled.form`
     margin-top: 20px;
 `;
 const InputText = styled.input`
-    margin-top: 20px;
     width: auto;
     flex-grow: 1;
     margin-right: 3px;
